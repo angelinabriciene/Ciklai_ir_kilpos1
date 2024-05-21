@@ -322,12 +322,7 @@ public class Main {
 
         System.out.println("viso smugu " +   visosmugiu );
 
-
-
-        git config --global user.name "angelinabriciene"
-        git config --global user.email "aburbaite865@gmail.com"
-
-
+        System.out.println("pa vy ko!");
         //pabaiga
 
 
