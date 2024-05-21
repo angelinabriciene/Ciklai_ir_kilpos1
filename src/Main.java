@@ -323,6 +323,7 @@ public class Main {
         System.out.println("viso smugu " +   visosmugiu );
 
         System.out.println("pa vy ko!");
+        System.out.println("dar vienas dalykelis");
         //pabaiga
 
 
